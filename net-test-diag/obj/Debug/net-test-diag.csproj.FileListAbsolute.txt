@@ -1,0 +1,13 @@
+C:\Users\NxtHome\Documents\Visual Studio 2010\Projects\Darvin-Controller\net-test-diag\bin\Debug\net-test-diag.exe.config
+C:\Users\NxtHome\Documents\Visual Studio 2010\Projects\Darvin-Controller\net-test-diag\bin\Debug\net-test-diag.exe
+C:\Users\NxtHome\Documents\Visual Studio 2010\Projects\Darvin-Controller\net-test-diag\bin\Debug\net-test-diag.pdb
+C:\Users\NxtHome\Documents\Visual Studio 2010\Projects\Darvin-Controller\net-test-diag\obj\Debug\net-test-diag.csproj.CoreCompileInputs.cache
+C:\Users\NxtHome\Documents\Visual Studio 2010\Projects\Darvin-Controller\net-test-diag\obj\Debug\net-test-diag.exe
+C:\Users\NxtHome\Documents\Visual Studio 2010\Projects\Darvin-Controller\net-test-diag\obj\Debug\net-test-diag.pdb
+D:\nxt\NxtHome\Documents\Visual Studio 2010\Projects\Darvin-Controller\net-test-diag\bin\Debug\net-test-diag.exe.config
+D:\nxt\NxtHome\Documents\Visual Studio 2010\Projects\Darvin-Controller\net-test-diag\bin\Debug\net-test-diag.exe
+D:\nxt\NxtHome\Documents\Visual Studio 2010\Projects\Darvin-Controller\net-test-diag\bin\Debug\net-test-diag.pdb
+D:\nxt\NxtHome\Documents\Visual Studio 2010\Projects\Darvin-Controller\net-test-diag\obj\Debug\net-test-diag.csprojAssemblyReference.cache
+D:\nxt\NxtHome\Documents\Visual Studio 2010\Projects\Darvin-Controller\net-test-diag\obj\Debug\net-test-diag.csproj.CoreCompileInputs.cache
+D:\nxt\NxtHome\Documents\Visual Studio 2010\Projects\Darvin-Controller\net-test-diag\obj\Debug\net-test-diag.exe
+D:\nxt\NxtHome\Documents\Visual Studio 2010\Projects\Darvin-Controller\net-test-diag\obj\Debug\net-test-diag.pdb

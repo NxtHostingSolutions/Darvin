@@ -1,0 +1,15 @@
+D:\nxt\NxtHome\Documents\Visual Studio 2010\Projects\Darvin-Controller\Darvin-Standalone\bin\Debug\Darvin-Standalone.exe.config
+D:\nxt\NxtHome\Documents\Visual Studio 2010\Projects\Darvin-Controller\Darvin-Standalone\bin\Debug\Darvin-Standalone.exe
+D:\nxt\NxtHome\Documents\Visual Studio 2010\Projects\Darvin-Controller\Darvin-Standalone\bin\Debug\Darvin-Standalone.pdb
+D:\nxt\NxtHome\Documents\Visual Studio 2010\Projects\Darvin-Controller\Darvin-Standalone\obj\Debug\Darvin-Standalone.csprojAssemblyReference.cache
+D:\nxt\NxtHome\Documents\Visual Studio 2010\Projects\Darvin-Controller\Darvin-Standalone\obj\Debug\MainWindow.g.cs
+D:\nxt\NxtHome\Documents\Visual Studio 2010\Projects\Darvin-Controller\Darvin-Standalone\obj\Debug\App.g.cs
+D:\nxt\NxtHome\Documents\Visual Studio 2010\Projects\Darvin-Controller\Darvin-Standalone\obj\Debug\Darvin-Standalone_MarkupCompile.cache
+D:\nxt\NxtHome\Documents\Visual Studio 2010\Projects\Darvin-Controller\Darvin-Standalone\obj\Debug\Darvin-Standalone_MarkupCompile.lref
+D:\nxt\NxtHome\Documents\Visual Studio 2010\Projects\Darvin-Controller\Darvin-Standalone\obj\Debug\MainWindow.baml
+D:\nxt\NxtHome\Documents\Visual Studio 2010\Projects\Darvin-Controller\Darvin-Standalone\obj\Debug\Darvin-Standalone.g.resources
+D:\nxt\NxtHome\Documents\Visual Studio 2010\Projects\Darvin-Controller\Darvin-Standalone\obj\Debug\Darvin_Standalone.Properties.Resources.resources
+D:\nxt\NxtHome\Documents\Visual Studio 2010\Projects\Darvin-Controller\Darvin-Standalone\obj\Debug\Darvin-Standalone.csproj.GenerateResource.cache
+D:\nxt\NxtHome\Documents\Visual Studio 2010\Projects\Darvin-Controller\Darvin-Standalone\obj\Debug\Darvin-Standalone.csproj.CoreCompileInputs.cache
+D:\nxt\NxtHome\Documents\Visual Studio 2010\Projects\Darvin-Controller\Darvin-Standalone\obj\Debug\Darvin-Standalone.exe
+D:\nxt\NxtHome\Documents\Visual Studio 2010\Projects\Darvin-Controller\Darvin-Standalone\obj\Debug\Darvin-Standalone.pdb

@@ -1,0 +1,28 @@
+﻿<Window x:Class="Darvin_Standalone.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Darvin_Standalone"
+        mc:Ignorable="d"
+        Title="Darvin Standalone" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="162*"/>
+            <ColumnDefinition Width="491*"/>
+            <ColumnDefinition Width="139*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.Background>
+            <ImageBrush ImageSource="imgs/source.gif"/>
+        </Grid.Background>
+        <Button Content="Voice" HorizontalAlignment="Left" Margin="1,379,0,0" VerticalAlignment="Top" Width="75" Grid.Column="2" Click="Button_Click" Height="20"/>
+        <Label Content="Device: " Grid.Column="1" HorizontalAlignment="Left" Margin="10,25,0,0" VerticalAlignment="Top" Foreground="#FF35F58C" Height="26" Width="51"/>
+        <Label Content="Voice: " Grid.Column="1" HorizontalAlignment="Left" Margin="10,56,0,0" VerticalAlignment="Top" Foreground="#FF21E28A" Height="26" Width="44"/>
+        <Label Name="ComLabel" Content="Com0" Grid.Column="1" HorizontalAlignment="Left" Margin="61,25,0,0" VerticalAlignment="Top" Height="26" Width="41"/>
+        <Label Name="voicelabel" Content="Disabled" Grid.Column="1" HorizontalAlignment="Left" Margin="54,56,0,0" VerticalAlignment="Top" Height="26" Width="56"/>
+        <TextBox Name="commandinput" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="30,379,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="321"/>
+        <Label Content="Command:" HorizontalAlignment="Left" Margin="116,376,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2" Width="77" Foreground="#FF4FF39A" Height="26"/>
+        <TextBox Name="log_output" Grid.Column="1" HorizontalAlignment="Left" Height="207" Margin="195,10,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="388" Opacity="0.01" Grid.ColumnSpan="2" TextChanged="Log_output_TextChanged"/>
+
+    </Grid>
+</Window>

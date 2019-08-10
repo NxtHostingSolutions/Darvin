@@ -1,0 +1,7 @@
+C:\Users\NxtHome\Documents\Visual Studio 2010\Projects\Darvin-Controller\DarvinCore\bin\Release\DarvinCore.exe.config
+C:\Users\NxtHome\Documents\Visual Studio 2010\Projects\Darvin-Controller\DarvinCore\bin\Release\DarvinCore.exe
+C:\Users\NxtHome\Documents\Visual Studio 2010\Projects\Darvin-Controller\DarvinCore\bin\Release\DarvinCore.pdb
+C:\Users\NxtHome\Documents\Visual Studio 2010\Projects\Darvin-Controller\DarvinCore\obj\Release\DarvinCore.csprojAssemblyReference.cache
+C:\Users\NxtHome\Documents\Visual Studio 2010\Projects\Darvin-Controller\DarvinCore\obj\Release\DarvinCore.csproj.CoreCompileInputs.cache
+C:\Users\NxtHome\Documents\Visual Studio 2010\Projects\Darvin-Controller\DarvinCore\obj\Release\DarvinCore.exe
+C:\Users\NxtHome\Documents\Visual Studio 2010\Projects\Darvin-Controller\DarvinCore\obj\Release\DarvinCore.pdb

@@ -1,0 +1,6 @@
+C:\Users\NxtHome\Documents\Visual Studio 2010\Projects\Darvin-Controller\net-test-diag\bin\Release\net-test-diag.exe.config
+C:\Users\NxtHome\Documents\Visual Studio 2010\Projects\Darvin-Controller\net-test-diag\bin\Release\net-test-diag.exe
+C:\Users\NxtHome\Documents\Visual Studio 2010\Projects\Darvin-Controller\net-test-diag\bin\Release\net-test-diag.pdb
+C:\Users\NxtHome\Documents\Visual Studio 2010\Projects\Darvin-Controller\net-test-diag\obj\Release\net-test-diag.csproj.CoreCompileInputs.cache
+C:\Users\NxtHome\Documents\Visual Studio 2010\Projects\Darvin-Controller\net-test-diag\obj\Release\net-test-diag.exe
+C:\Users\NxtHome\Documents\Visual Studio 2010\Projects\Darvin-Controller\net-test-diag\obj\Release\net-test-diag.pdb

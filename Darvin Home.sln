@@ -1,0 +1,214 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Darvin-Controller", "Darvin-Controller\Darvin-Controller.csproj", "{D657FDB2-A73B-4DC4-A167-0C96111F8084}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DarvinCore", "DarvinCore\DarvinCore.csproj", "{9EE18560-CC68-4E02-AC28-80CBD02298AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "net-test-diag", "net-test-diag\net-test-diag.csproj", "{A24794CE-B245-4E4C-BE3C-8A68029DC17C}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "public_html", "ftp://darvin-api.nxthostingsolutions.com/public_html", "{5A411F49-B87D-416B-8908-0C0252C2C0E7}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/public_html"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\AppData\Local\Temp\VWDWebCache\ftp_darvin-api.nxthostingsolutions.com_public_html_darvapi\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\public_html\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/public_html"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\AppData\Local\Temp\VWDWebCache\ftp_darvin-api.nxthostingsolutions.com_public_html_darvapi\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\public_html\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/public_html"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\AppData\Local\Temp\VWDWebCache\ftp_darvin-api.nxthostingsolutions.com_public_html_darvapi\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\public_html\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/public_html"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\AppData\Local\Temp\VWDWebCache\ftp_darvin-api.nxthostingsolutions.com_public_html_darvapi\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\public_html\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/public_html"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\AppData\Local\Temp\VWDWebCache\ftp_darvin-api.nxthostingsolutions.com_public_html_darvapi\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\public_html\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/public_html"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\AppData\Local\Temp\VWDWebCache\ftp_darvin-api.nxthostingsolutions.com_public_html_darvapi\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\public_html\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/public_html"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\AppData\Local\Temp\VWDWebCache\ftp_darvin-api.nxthostingsolutions.com_public_html_darvapi\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\public_html\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/public_html"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\AppData\Local\Temp\VWDWebCache\ftp_darvin-api.nxthostingsolutions.com_public_html_darvapi\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\public_html\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/public_html"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\AppData\Local\Temp\VWDWebCache\ftp_darvin-api.nxthostingsolutions.com_public_html_darvapi\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\public_html\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/public_html"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\AppData\Local\Temp\VWDWebCache\ftp_darvin-api.nxthostingsolutions.com_public_html_darvapi\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\public_html\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Darvin-Standalone", "Darvin-Standalone\Darvin-Standalone.csproj", "{50FFB19E-E347-46AA-BB2A-C93B01366B22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Darvin_Proxy", "Darvin_Proxy\Darvin_Proxy.csproj", "{8601DF8D-EDC3-4240-A932-A81D79143B50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Darvin_Client", "Darvin_Client\Darvin_Client.csproj", "{0C905D8E-0FCC-4D74-9946-0B933565AEEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Darvin_Auth", "Darvin_Auth\Darvin_Auth.csproj", "{00669CA6-BEC2-4017-8EBF-BDC49AE6CBFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D657FDB2-A73B-4DC4-A167-0C96111F8084}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{D657FDB2-A73B-4DC4-A167-0C96111F8084}.Debug|x64.ActiveCfg = Debug|x86
+		{D657FDB2-A73B-4DC4-A167-0C96111F8084}.Debug|x86.ActiveCfg = Debug|x86
+		{D657FDB2-A73B-4DC4-A167-0C96111F8084}.Debug|x86.Build.0 = Debug|x86
+		{D657FDB2-A73B-4DC4-A167-0C96111F8084}.Release|Any CPU.ActiveCfg = Release|x86
+		{D657FDB2-A73B-4DC4-A167-0C96111F8084}.Release|x64.ActiveCfg = Release|x86
+		{D657FDB2-A73B-4DC4-A167-0C96111F8084}.Release|x86.ActiveCfg = Release|x86
+		{D657FDB2-A73B-4DC4-A167-0C96111F8084}.Release|x86.Build.0 = Release|x86
+		{9EE18560-CC68-4E02-AC28-80CBD02298AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EE18560-CC68-4E02-AC28-80CBD02298AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EE18560-CC68-4E02-AC28-80CBD02298AB}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{9EE18560-CC68-4E02-AC28-80CBD02298AB}.Debug|x64.Build.0 = Debug|Any CPU
+		{9EE18560-CC68-4E02-AC28-80CBD02298AB}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{9EE18560-CC68-4E02-AC28-80CBD02298AB}.Debug|x86.Build.0 = Debug|Any CPU
+		{9EE18560-CC68-4E02-AC28-80CBD02298AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EE18560-CC68-4E02-AC28-80CBD02298AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EE18560-CC68-4E02-AC28-80CBD02298AB}.Release|x64.ActiveCfg = Release|Any CPU
+		{9EE18560-CC68-4E02-AC28-80CBD02298AB}.Release|x64.Build.0 = Release|Any CPU
+		{9EE18560-CC68-4E02-AC28-80CBD02298AB}.Release|x86.ActiveCfg = Release|Any CPU
+		{9EE18560-CC68-4E02-AC28-80CBD02298AB}.Release|x86.Build.0 = Release|Any CPU
+		{A24794CE-B245-4E4C-BE3C-8A68029DC17C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A24794CE-B245-4E4C-BE3C-8A68029DC17C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A24794CE-B245-4E4C-BE3C-8A68029DC17C}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{A24794CE-B245-4E4C-BE3C-8A68029DC17C}.Debug|x64.Build.0 = Debug|Any CPU
+		{A24794CE-B245-4E4C-BE3C-8A68029DC17C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A24794CE-B245-4E4C-BE3C-8A68029DC17C}.Debug|x86.Build.0 = Debug|Any CPU
+		{A24794CE-B245-4E4C-BE3C-8A68029DC17C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A24794CE-B245-4E4C-BE3C-8A68029DC17C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A24794CE-B245-4E4C-BE3C-8A68029DC17C}.Release|x64.ActiveCfg = Release|Any CPU
+		{A24794CE-B245-4E4C-BE3C-8A68029DC17C}.Release|x64.Build.0 = Release|Any CPU
+		{A24794CE-B245-4E4C-BE3C-8A68029DC17C}.Release|x86.ActiveCfg = Release|Any CPU
+		{A24794CE-B245-4E4C-BE3C-8A68029DC17C}.Release|x86.Build.0 = Release|Any CPU
+		{5A411F49-B87D-416B-8908-0C0252C2C0E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A411F49-B87D-416B-8908-0C0252C2C0E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A411F49-B87D-416B-8908-0C0252C2C0E7}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{5A411F49-B87D-416B-8908-0C0252C2C0E7}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{5A411F49-B87D-416B-8908-0C0252C2C0E7}.Debug|x86.Build.0 = Debug|Any CPU
+		{5A411F49-B87D-416B-8908-0C0252C2C0E7}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A411F49-B87D-416B-8908-0C0252C2C0E7}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{5A411F49-B87D-416B-8908-0C0252C2C0E7}.Release|x64.ActiveCfg = Debug|Any CPU
+		{5A411F49-B87D-416B-8908-0C0252C2C0E7}.Release|x86.ActiveCfg = Debug|Any CPU
+		{5A411F49-B87D-416B-8908-0C0252C2C0E7}.Release|x86.Build.0 = Debug|Any CPU
+		{50FFB19E-E347-46AA-BB2A-C93B01366B22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50FFB19E-E347-46AA-BB2A-C93B01366B22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50FFB19E-E347-46AA-BB2A-C93B01366B22}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{50FFB19E-E347-46AA-BB2A-C93B01366B22}.Debug|x64.Build.0 = Debug|Any CPU
+		{50FFB19E-E347-46AA-BB2A-C93B01366B22}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{50FFB19E-E347-46AA-BB2A-C93B01366B22}.Debug|x86.Build.0 = Debug|Any CPU
+		{50FFB19E-E347-46AA-BB2A-C93B01366B22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50FFB19E-E347-46AA-BB2A-C93B01366B22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50FFB19E-E347-46AA-BB2A-C93B01366B22}.Release|x64.ActiveCfg = Release|Any CPU
+		{50FFB19E-E347-46AA-BB2A-C93B01366B22}.Release|x64.Build.0 = Release|Any CPU
+		{50FFB19E-E347-46AA-BB2A-C93B01366B22}.Release|x86.ActiveCfg = Release|Any CPU
+		{50FFB19E-E347-46AA-BB2A-C93B01366B22}.Release|x86.Build.0 = Release|Any CPU
+		{8601DF8D-EDC3-4240-A932-A81D79143B50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8601DF8D-EDC3-4240-A932-A81D79143B50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8601DF8D-EDC3-4240-A932-A81D79143B50}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{8601DF8D-EDC3-4240-A932-A81D79143B50}.Debug|x64.Build.0 = Debug|Any CPU
+		{8601DF8D-EDC3-4240-A932-A81D79143B50}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{8601DF8D-EDC3-4240-A932-A81D79143B50}.Debug|x86.Build.0 = Debug|Any CPU
+		{8601DF8D-EDC3-4240-A932-A81D79143B50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8601DF8D-EDC3-4240-A932-A81D79143B50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8601DF8D-EDC3-4240-A932-A81D79143B50}.Release|x64.ActiveCfg = Release|Any CPU
+		{8601DF8D-EDC3-4240-A932-A81D79143B50}.Release|x64.Build.0 = Release|Any CPU
+		{8601DF8D-EDC3-4240-A932-A81D79143B50}.Release|x86.ActiveCfg = Release|Any CPU
+		{8601DF8D-EDC3-4240-A932-A81D79143B50}.Release|x86.Build.0 = Release|Any CPU
+		{0C905D8E-0FCC-4D74-9946-0B933565AEEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C905D8E-0FCC-4D74-9946-0B933565AEEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C905D8E-0FCC-4D74-9946-0B933565AEEE}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{0C905D8E-0FCC-4D74-9946-0B933565AEEE}.Debug|x64.Build.0 = Debug|Any CPU
+		{0C905D8E-0FCC-4D74-9946-0B933565AEEE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{0C905D8E-0FCC-4D74-9946-0B933565AEEE}.Debug|x86.Build.0 = Debug|Any CPU
+		{0C905D8E-0FCC-4D74-9946-0B933565AEEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C905D8E-0FCC-4D74-9946-0B933565AEEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C905D8E-0FCC-4D74-9946-0B933565AEEE}.Release|x64.ActiveCfg = Release|Any CPU
+		{0C905D8E-0FCC-4D74-9946-0B933565AEEE}.Release|x64.Build.0 = Release|Any CPU
+		{0C905D8E-0FCC-4D74-9946-0B933565AEEE}.Release|x86.ActiveCfg = Release|Any CPU
+		{0C905D8E-0FCC-4D74-9946-0B933565AEEE}.Release|x86.Build.0 = Release|Any CPU
+		{00669CA6-BEC2-4017-8EBF-BDC49AE6CBFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00669CA6-BEC2-4017-8EBF-BDC49AE6CBFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00669CA6-BEC2-4017-8EBF-BDC49AE6CBFC}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{00669CA6-BEC2-4017-8EBF-BDC49AE6CBFC}.Debug|x64.Build.0 = Debug|Any CPU
+		{00669CA6-BEC2-4017-8EBF-BDC49AE6CBFC}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{00669CA6-BEC2-4017-8EBF-BDC49AE6CBFC}.Debug|x86.Build.0 = Debug|Any CPU
+		{00669CA6-BEC2-4017-8EBF-BDC49AE6CBFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00669CA6-BEC2-4017-8EBF-BDC49AE6CBFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00669CA6-BEC2-4017-8EBF-BDC49AE6CBFC}.Release|x64.ActiveCfg = Release|Any CPU
+		{00669CA6-BEC2-4017-8EBF-BDC49AE6CBFC}.Release|x64.Build.0 = Release|Any CPU
+		{00669CA6-BEC2-4017-8EBF-BDC49AE6CBFC}.Release|x86.ActiveCfg = Release|Any CPU
+		{00669CA6-BEC2-4017-8EBF-BDC49AE6CBFC}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE199A44-AFB4-48BC-B218-B7AC25545C1A}
+	EndGlobalSection
+EndGlobal

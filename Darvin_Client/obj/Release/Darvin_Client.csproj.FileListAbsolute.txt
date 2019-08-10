@@ -1,0 +1,2 @@
+D:\nxt\NxtHome\Documents\Visual Studio 2010\Projects\Darvin-Controller\Darvin_Client\bin\Release\Darvin_Client.exe
+D:\nxt\NxtHome\Documents\Visual Studio 2010\Projects\Darvin-Controller\Darvin_Client\bin\Release\Darvin_Client.pdb
