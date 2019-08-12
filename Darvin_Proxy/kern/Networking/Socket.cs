@@ -127,9 +127,9 @@ namespace Darvin_Proxy.kern.Networking
                             content.Length, content.Substring(0, content.Length - 5));
                         // Echo the data back to the client. 
                         kern.ProxyCore.Servicehub Sh = new ProxyCore.Servicehub();
-                        Sh.Process(data);
+                        string respdata = Sh.Process(data);
                         ResponderCore resp = new ResponderCore();
-                        //Send(handler, resp.Response);
+                        Send(handler, respdata);
 
                     }
                     else
